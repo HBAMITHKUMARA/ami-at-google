@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lobster Two', cursive !important;
+}
+
+body, button, a {
+    color: #566573 !important;
+}
+
+#fs {
+    width: 75px;
+}
+
+#img-icon {
+    width: 18px;
+    height: 18px;
+}
+
+.card {
+    background: #bdc3c7;
+    background: -webkit-linear-gradient(to top, #ffffff, #bdc3c7);
+    background: linear-gradient(to top, #ffffff, #bdc3c7);
+    border: 0;
+}
