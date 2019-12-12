@@ -1,1 +1,1 @@
-# career-at-google
+# ami-at-google
